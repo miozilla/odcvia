@@ -45,3 +45,4 @@ odcvia : #computer_vision #ai_vision
 
 ![odcvia020.png](./media/odcvia020.png)
 
+![odcvia021.png](./media/odcvia021.png)
