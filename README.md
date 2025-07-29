@@ -19,8 +19,6 @@ odcvia : #computer_vision #ai_vision
 
 ![odcvia008.png](./media/odcvia008.png)
 
-![odcvia008.png](./media/odcvia008.png)
-
 ![odcvia009.png](./media/odcvia009.png)
 
 ![odcvia010.png](./media/odcvia010.png)
